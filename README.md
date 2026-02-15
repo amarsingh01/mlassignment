@@ -1,3 +1,11 @@
+
+Name : Amar Raj Singh
+Bits ID : 2025ab05150@wilp.bits-pilani.ac.in
+Section 2
+Dataset : https://www.kaggle.com/datasets/udaymalviya/bank-loan-data
+Streamlit URL : https://arsingh.streamlit.app/
+GitHub URL : https://github.com/amarsingh01/mlassignment
+
 Loan Status Prediction: Machine Learning Classification
 This project implements and evaluates six different Machine Learning classification models to predict Loan Status (Approved/Rejected) based on customer profile data.
 
